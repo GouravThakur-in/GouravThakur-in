@@ -52,8 +52,8 @@ Machine learning/deep learning project focused on classifying skin disease image
 
 **Tech:** Python, TensorFlow, Keras, CNN, NumPy, Pandas, Scikit-learn
 
-🔗 [GitHub Repository](YOUR_GITHUB_LINK)  
-🔗 [Kaggle Notebook](YOUR_KAGGLE_LINK)
+🔗 [GitHub Repository](https://github.com/GouravThakur-in)  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/tgourav311951/final-year-project)
 
 ### 🏠 Airbnb Price Prediction
 End-to-end machine learning project for predicting Airbnb prices using machine learning models and a Flask-based application.
