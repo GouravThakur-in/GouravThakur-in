@@ -52,7 +52,7 @@ Machine learning/deep learning project focused on classifying skin disease image
 
 **Tech:** Python, TensorFlow, Keras, CNN, NumPy, Pandas, Scikit-learn
 
-🔗 [GitHub Repository](https://github.com/GouravThakur-in)  
+🔗 [GitHub Repository](https://github.com/repos?q=owner%3A%40me)  
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/tgourav311951/final-year-project)
 
 ### 🏠 Airbnb Price Prediction
