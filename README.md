@@ -1,6 +1,6 @@
 # Hi, I'm Gourav Thakur 👋
 
-### Aspiring Data Scientist | Machine Learning | Python | SQL
+### Aspiring Data Scientist | Machine Learning / Deep Learning| Python | SQL
 
 I'm a postgraduate student focused on building practical skills in **Data Science, Machine Learning, and AI**.
 
